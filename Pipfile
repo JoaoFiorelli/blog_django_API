@@ -10,6 +10,7 @@ djangorestframework = "==3.13.1"
 Django = "==4.0.2"
 python-dotenv = "*"
 exit = "*"
+psycopg2 = "*"
 
 [requires]
 python_version = "3.8"
