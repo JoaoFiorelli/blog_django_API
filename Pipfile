@@ -10,7 +10,10 @@ djangorestframework = "==3.13.1"
 Django = "==4.0.2"
 python-dotenv = "*"
 exit = "*"
-psycopg2 = "*"
+psycopg2-binary = "*"
+pytest = "*"
+pytest-django = "*"
+factory-boy = "*"
 
 [requires]
 python_version = "3.8"
